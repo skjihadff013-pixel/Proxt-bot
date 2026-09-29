@@ -78,7 +78,7 @@ def create_ikb_button(text, callback_data=None, url=None, web_app=None):
 # ==========================================
 # CONFIGURATION
 # ==========================================
-BOT_TOKEN = "8659733780:AAG1cFA22HStxAM-L7aTJKiP1hnM2Baqqzg"
+BOT_TOKEN = "8659733780:AAFmuDMhVFy5mXpV6_HXUvP7fiBG8DVFlkY"
 SUPER_ADMIN_ID = 7125334953
 DB_FILE = "bot_database.db"
 
